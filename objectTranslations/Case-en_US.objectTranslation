@@ -817,6 +817,14 @@
             <section>HowWeRoll Service Details</section>
         </sections>
     </layouts>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewChildCase --></label>
+        <name>NewChildCase</name>
+    </quickActions>
     <startsWith>Consonant</startsWith>
     <webLinks>
         <label><!-- UpsellCrosssellOpportunity --></label>
